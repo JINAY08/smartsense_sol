@@ -35,5 +35,5 @@ So after performing the pre-processing, I identified the important columns (rati
 
 The mean cross-validation accuracy came out to be nearly 63 %. The drop in the accuracy could be attributed to the initial bias present in the dataset with one or two classes dominating the others!
 
-As it turns out, the model is fairly accurate while predicting the type of cuisine based on the ingredients and average ratings received by the cuisine!!
+As it turns out, the model is fairly accurate while predicting the type of cuisine based on the ingredients and average ratings received by the cuisine!
 
