@@ -27,6 +27,13 @@ Data pre-processing is a very important step before starting to train any ML mod
 Given below is one of the plots showing the frequency of each of the occurring Cuisine type:
 
 ![Screenshot 2023-09-28 135822](https://github.com/JINAY08/smartsense_sol/blob/main/images/Screenshot%202023-09-28%20135822.png)
-## Approach
 
+As could be observed the data is quite biased towards one or two cuisines.
+## Approach and Results
+
+So after performing the pre-processing, I identified the important columns (ratings and type of cuisine) and trained a Logistic Regression model on the data. I used the in-built sklearn's Logistic Regression model. Firstly, I split the data into training and test sets (75/25 ratio); learned the model on the training set, and used cross-validation accuracy as the metric to judge the performance of the model.
+
+The mean cross-validation accuracy came out to be nearly 63 %. The drop in the accuracy could be attributed to the initial bias present in the dataset with one or two classes dominating the others!
+
+As it turns out, the model is fairly accurate while predicting the type of cuisine based on the ingredients and average ratings received by the cuisine!!
 
