@@ -25,7 +25,7 @@ Logistic Regression is used for a dataset of independent variables. Logistic reg
 
 Data pre-processing is a very important step before starting to train any ML model. For the purpose of data pre-processing in this problem statement, I first downloaded the given dataset, and visualised the data using pandas and Dataframes. Next, I observed that there were some columns of the dataframe that was of minimal use for the purpose of this problem statement. In the initial parts of the code I tried removing these columns and just using the important columns after merging the dataframes.
 Given below is one of the plots showing the frequency of each of the occurring Cuisine type:
-![Count of each cuisine type](images/Screenshot 2023-09-28 135822.png)
+![Count of each cuisine type](https://github.com/JINAY08/smartsense_sol/blob/main/images/Screenshot%202023-09-28%20135822.png)
 
 ## Approach
 
