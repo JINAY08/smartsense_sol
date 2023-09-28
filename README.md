@@ -9,7 +9,7 @@ The comments have been made in the Notebook explaining the data pre-processing a
 
 - The zipfile containing the data is provided in the ['data/](./data) folder. You can use the following simple command to extract the data and unzip it:
 ```
-!wget https://github.com/JINAY08/smartsense_sol/blob/main/EPI_batch.zip
+!wget https://github.com/JINAY08/smartsense_sol/blob/main/data/EPI_batch.zip
 !unzip -q EPI_batch.zip -d "content/"
 ```
 
