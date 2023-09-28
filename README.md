@@ -1,5 +1,6 @@
 # SmartSense Assessment-1
 
+(By: Jinay Dagli)
 The repository consists of a Python Notebook that contains the entire code for the solution.
 
 The comments have been made in the Notebook explaining the data pre-processing and the subsequent steps to train the model. For the purpose of this problem statement, I have used Logistic Regression for identifying the cuisine type and ratings.
