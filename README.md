@@ -1,4 +1,4 @@
-# smartsense_sol
+# SmartSense Assessment-1
 
 The repository consists of a Python Notebook that contains the entire code for the solution.
 
